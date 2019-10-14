@@ -1,6 +1,6 @@
 # Android-Calculator
-Basic calculator app for Android.
+Calculator app for Android that handles simple mathematical operations.
 
-See below for a few examples of simple mathematical operations.
+Built on Android 10 SDK using with Java JRE 1.8.0_202.
 
 ![](/Docs/calculatorexample.gif)
